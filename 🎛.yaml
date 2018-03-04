@@ -1,0 +1,10 @@
+name: site24x7.com
+
+type: rest-api
+
+rest-api:
+  prefix: https://www.site24x7.com/api
+  docs: https://www.site24x7.com/help/api/
+  token: Zoho-authtoken
+  payload: json
+  accept: application/json; version=2.0
