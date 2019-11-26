@@ -10,4 +10,5 @@ rest-api:
   auth:
     mode: oauth2
     token-name: Zoho-oauthtoken
-    refresh-url: https://accounts.zoho.com/oauth/v2/token  
+    refresh-url: https://accounts.zoho.com/oauth/v2/token
+    scheme: request-body
